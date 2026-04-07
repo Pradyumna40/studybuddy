@@ -2,3 +2,4 @@ Django
 gunicorn
 Pillow
 djangorestframework
+django-cors-header
